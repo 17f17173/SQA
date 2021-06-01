@@ -1,0 +1,24 @@
+Int I,age, civil number 
+String, job, the disease
+Read civil number, job, the disease 
+For (i=18, i<18, i++)
+Read [i]
+End for
+If age <=18 
+Print “they can take a vaccination”
+Else 
+display “don't take a vaccination”
+End if
+Switch (vaccination)
+Case ( age between 18 and 59) 
+Print “display the vaccine is optional”
+Case ( age <= 60)
+Print “display the vaccine is mandatory”
+Case ( have a diseases)
+Print “display can't take the vaccine”
+End switch 
+If they work in hospital or military 
+Print “display the vaccine is mandatory”
+Else
+Print “display the vaccine is optional”
+End if 
